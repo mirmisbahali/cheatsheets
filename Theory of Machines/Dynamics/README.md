@@ -1,1 +1,1 @@
-[](./watt_governor.jpg)
+![Watt Governor](./watt_governor.jpg)
